@@ -8,6 +8,8 @@ some more
 
 Sample website with plenty of files for demos
 
+test compare
+
 ## Purpose
 
 ## Deployment
