@@ -18,3 +18,7 @@ test compare
 ## How to start
 
 ## COPYRIGHT
+
+## How to contribute
+
+Please fork this repository and then issue Pull requests for review
