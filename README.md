@@ -16,3 +16,5 @@ test compare
 
 
 ## How to start
+
+## COPYRIGHT
